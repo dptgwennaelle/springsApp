@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="connectbot.jbcrypt" type="repository">
+    <properties maven-id="org.connectbot:jbcrypt:1.0.2" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/connectbot/jbcrypt/1.0.2/jbcrypt-1.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
